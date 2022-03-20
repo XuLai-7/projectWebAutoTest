@@ -1,0 +1,827 @@
+2022-03-17 19:23:46,372 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="74a7f51c88e0be3633536bcd9f67961d")>
+2022-03-17 19:23:46,375 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 19:23:46,375 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 19:23:46,376 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:23:48,384 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:23:50,891 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 19:23:50,892 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:23:50,902 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:23:50,927 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:23:50,989 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 19:23:50,989 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:23:50,999 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:23:51,028 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:23:51,065 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 19:23:51,065 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:23:51,071 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:23:51,095 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:23:51,125 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 19:23:51,125 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:23:53,140 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:23:53,186 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="74a7f51c88e0be3633536bcd9f67961d")>
+2022-03-17 19:23:55,985 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:23:57,993 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:24:00,716 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:24:37,616 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="2872706cd113c4635016d941f42ab773")>
+2022-03-17 19:24:37,617 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 19:24:37,617 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 19:24:37,617 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:24:39,625 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:24:41,930 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 19:24:41,931 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:24:41,940 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:24:41,963 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:24:41,999 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 19:24:41,999 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:24:42,004 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:24:42,033 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:24:42,064 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 19:24:42,064 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:24:42,069 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:24:42,095 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:24:42,128 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 19:24:42,128 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:24:44,132 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:24:44,169 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="2872706cd113c4635016d941f42ab773")>
+2022-03-17 19:24:51,147 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:24:53,148 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:24:55,728 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:25:51,455 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="a9439d9dfc48a5d795b9d232927d55bb")>
+2022-03-17 19:25:51,455 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="a9439d9dfc48a5d795b9d232927d55bb")>
+2022-03-17 19:25:51,456 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 19:25:51,456 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 19:25:51,456 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:25:53,458 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:25:55,873 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 19:25:55,873 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:25:55,883 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:25:55,904 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:25:55,940 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 19:25:55,940 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:25:55,952 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:25:55,973 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:25:56,002 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 19:25:56,002 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:25:56,011 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:25:56,037 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:25:56,068 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 19:25:56,068 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:25:58,080 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:12,136 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:12,146 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:26:12,172 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:26:12,211 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:26:14,216 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:16,867 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:26:18,872 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:18,960 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:26:20,971 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:32,789 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:37,619 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 19:26:37,619 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:37,647 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:26:39,655 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:54,040 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="d104c1bd663fffc359f71feffd5ee94a")>
+2022-03-17 19:26:54,041 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 19:26:54,041 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 19:26:54,041 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:26:56,051 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:58,417 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 19:26:58,418 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:58,427 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:26:58,450 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:26:58,487 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 19:26:58,487 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:58,493 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:26:58,524 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:26:58,551 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 19:26:58,551 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:26:58,562 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:26:58,584 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:26:58,611 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 19:26:58,611 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:27:00,625 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:27:00,662 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="d104c1bd663fffc359f71feffd5ee94a")>
+2022-03-17 19:27:07,581 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:27:09,588 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:27:12,169 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:27:12,191 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:27:14,194 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:27:21,626 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:27:23,637 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:27:23,697 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 19:27:23,698 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:27:31,193 INFO [root] [base.py (base_get_screen_shot:base_get_screen_shot:60)]-[base]:断言出错,正在执行截图
+2022-03-17 19:38:36,794 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="e9841c0fd1c638befc5956deafa314b3")>
+2022-03-17 19:38:36,794 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 19:38:36,794 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 19:38:36,794 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:38:38,804 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:38:41,287 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 19:38:41,288 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:38:41,299 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:38:41,322 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:38:41,351 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 19:38:41,351 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:38:41,362 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:38:41,403 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:38:41,474 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 19:38:41,475 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:38:41,494 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:38:41,555 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:38:41,629 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 19:38:41,630 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:38:43,633 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:38:43,700 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="e9841c0fd1c638befc5956deafa314b3")>
+2022-03-17 19:38:50,694 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:38:52,703 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:38:55,209 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:39:39,393 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="b4fcdaa366776e50182c88abec5effc3")>
+2022-03-17 19:39:39,394 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="b4fcdaa366776e50182c88abec5effc3")>
+2022-03-17 19:39:39,394 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 19:39:39,394 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 19:39:39,394 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:39:41,399 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:39:43,826 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 19:39:43,826 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:39:43,834 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:39:43,858 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:39:43,893 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 19:39:43,893 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:39:43,899 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:39:43,925 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:39:43,955 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 19:39:43,955 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:39:43,963 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:39:43,987 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:39:44,047 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 19:39:44,047 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:39:46,053 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:40:00,130 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:40:00,139 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:40:00,163 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:40:00,198 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:40:02,208 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:40:04,843 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:40:06,858 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:40:06,947 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:40:08,956 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:40:16,493 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:40:21,303 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 19:40:21,304 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:40:21,329 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:40:23,335 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:41:30,687 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="1c937e2c8852937fe1a9c544404009a6")>
+2022-03-17 19:41:30,688 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 19:41:30,688 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 19:41:30,688 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:41:32,695 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:41:35,048 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 19:41:35,049 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:41:35,058 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:41:35,092 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:41:35,119 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 19:41:35,119 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:41:35,129 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:41:35,154 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:41:35,187 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 19:41:35,187 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:41:35,196 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:41:35,218 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:41:35,246 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 19:41:35,246 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:41:37,251 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:41:37,297 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="1c937e2c8852937fe1a9c544404009a6")>
+2022-03-17 19:41:44,221 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:41:46,234 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:41:48,889 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:41:48,910 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:41:50,910 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:44:53,677 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="6dc4e32e1b47ead8127c9f5b961a9bc0")>
+2022-03-17 19:44:53,677 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 19:44:53,677 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 19:44:53,677 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:44:55,687 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:44:58,027 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 19:44:58,027 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:44:58,035 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:44:58,061 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:44:58,094 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 19:44:58,095 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:44:58,103 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:44:58,126 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:44:58,216 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 19:44:58,216 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:44:58,226 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 19:44:58,251 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 19:44:58,285 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 19:44:58,285 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:45:00,296 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:45:00,333 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="6dc4e32e1b47ead8127c9f5b961a9bc0")>
+2022-03-17 19:45:07,494 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:45:09,508 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:45:12,565 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:45:12,634 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 19:45:14,646 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 19:45:14,664 INFO [root] [base.py (base_get_screen_shot:base_get_screen_shot:60)]-[base]:断言出错,正在执行截图
+2022-03-17 19:45:14,818 ERROR [root] [test03_order.py (test_order:test_order:40)]-Message: element not interactable
+  (Session info: chrome=99.0.4844.51)
+
+2022-03-17 20:48:35,134 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="370c5ee5bf1f4415ec6d28e59b79bc73")>
+2022-03-17 20:48:35,135 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 20:48:35,135 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 20:48:35,135 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 20:48:37,139 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 20:48:39,516 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 20:48:39,516 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 20:48:39,525 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 20:48:39,550 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 20:48:39,585 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 20:48:39,585 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 20:48:39,593 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 20:48:39,618 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 20:48:39,659 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 20:48:39,660 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 20:48:39,668 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 20:48:39,697 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 20:48:39,735 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 20:48:39,735 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 20:48:41,738 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 20:48:41,779 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="370c5ee5bf1f4415ec6d28e59b79bc73")>
+2022-03-17 20:48:48,730 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 20:48:50,744 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 20:48:50,802 INFO [root] [base.py (base_switch_to_window:base_switch_to_window:92)]-[base]:切换窗口:我的订单方法
+2022-03-17 20:48:50,808 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-D42EFBB799DB85FF51E61C458AB8856C方法
+2022-03-17 20:48:50,808 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-D42EFBB799DB85FF51E61C458AB8856C方法
+2022-03-17 20:48:50,837 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-CC6DF5A729DD2822302EECCF901C175C方法
+2022-03-17 20:48:50,837 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-CC6DF5A729DD2822302EECCF901C175C方法
+2022-03-17 20:48:53,386 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:106)]-[base]:判断当前页面title是否等于指定的title:我的订单方法
+2022-03-17 20:48:53,387 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:108)]-[base]:返回handle:CDwindow-CC6DF5A729DD2822302EECCF901C175C方法
+2022-03-17 20:48:53,387 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 20:48:55,393 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 20:48:55,449 INFO [root] [base.py (base_switch_to_window:base_switch_to_window:92)]-[base]:切换窗口:订单支付-开源商城 | B2C商城 | B2B2C商城 | 三级分销 | 免费商城 | 多用户商城 | tpshop｜thinkphp shop｜TPshop 免费开源系统 | 微商城方法
+2022-03-17 20:48:55,455 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-D42EFBB799DB85FF51E61C458AB8856C方法
+2022-03-17 20:48:55,456 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-D42EFBB799DB85FF51E61C458AB8856C方法
+2022-03-17 20:48:55,500 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-CC6DF5A729DD2822302EECCF901C175C方法
+2022-03-17 20:48:55,500 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-CC6DF5A729DD2822302EECCF901C175C方法
+2022-03-17 20:48:55,536 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-F33490A243FAABDF51AF7B5EA7E0953D方法
+2022-03-17 20:48:55,536 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-F33490A243FAABDF51AF7B5EA7E0953D方法
+2022-03-17 20:49:04,835 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:106)]-[base]:判断当前页面title是否等于指定的title:订单支付-开源商城 | B2C商城 | B2B2C商城 | 三级分销 | 免费商城 | 多用户商城 | tpshop｜thinkphp shop｜TPshop 免费开源系统 | 微商城方法
+2022-03-17 20:49:04,835 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:108)]-[base]:返回handle:CDwindow-F33490A243FAABDF51AF7B5EA7E0953D方法
+2022-03-17 20:49:04,836 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 20:49:06,844 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 20:49:06,882 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 20:49:08,884 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 20:49:13,432 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 20:49:13,432 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 20:49:13,458 INFO [root] [base.py (base_get_screen_shot:base_get_screen_shot:60)]-[base]:断言出错,正在执行截图
+2022-03-17 21:02:45,273 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="f2ec270332b7c82114db291c901003ce")>
+2022-03-17 21:02:45,274 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 21:02:45,274 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:02:47,278 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:49,761 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法,123456,8888
+2022-03-17 21:02:49,761 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:02:49,761 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:49,769 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:02:49,793 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:02:49,810 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:02:49,810 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:49,819 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:02:49,842 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:02:49,891 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:02:49,891 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:49,901 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:02:49,924 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:02:49,966 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:02:49,966 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:02:51,978 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:52,034 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:02:52,034 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:02:52,035 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:52,060 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:02:52,061 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:02:54,066 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:54,098 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138006,,8888
+2022-03-17 21:02:54,099 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:02:54,099 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:54,105 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:02:54,121 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:02:54,167 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:02:54,167 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:54,172 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:02:54,189 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:02:54,214 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:02:54,214 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:54,221 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:02:54,238 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:02:54,276 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:02:54,276 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:02:56,287 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:56,314 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:02:56,315 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:02:56,315 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:56,334 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:02:56,334 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:02:58,337 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:58,369 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138006,123456,
+2022-03-17 21:02:58,369 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:02:58,369 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:58,376 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:02:58,392 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:02:58,436 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:02:58,436 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:58,443 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:02:58,458 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:02:58,491 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:02:58,491 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:02:58,498 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:02:58,514 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:02:58,538 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:02:58,538 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:00,546 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:00,574 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:03:00,575 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:03:00,575 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:00,589 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:03:00,589 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:02,597 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:02,646 INFO [root] [base.py (base_get_screen_shot:base_get_screen_shot:60)]-[base]:断言出错,正在执行截图
+2022-03-17 21:03:02,822 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138007,123456,8888
+2022-03-17 21:03:02,822 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:03:02,823 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:02,829 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:02,847 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:02,887 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:03:02,887 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:02,893 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:02,907 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:02,938 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:03:02,938 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:02,944 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:02,958 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:02,988 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:03:02,988 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:04,998 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:05,024 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:03:05,024 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:03:05,025 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:07,610 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:03:07,610 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:09,617 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:09,649 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138,123456,8888
+2022-03-17 21:03:09,649 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:03:09,649 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:09,659 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:09,675 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:09,719 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:03:09,719 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:09,726 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:09,745 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:09,783 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:03:09,783 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:09,790 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:09,807 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:09,836 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:03:09,837 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:11,841 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:11,868 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:03:11,868 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:03:11,868 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:11,885 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:03:11,885 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:13,899 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:13,931 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138006,1234567,8888
+2022-03-17 21:03:13,931 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:03:13,932 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:13,952 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:13,967 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:14,010 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:03:14,010 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:14,018 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:14,034 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:14,072 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:03:14,072 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:14,079 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:14,093 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:14,133 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:03:14,133 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:16,138 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:16,164 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:03:16,165 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:03:16,165 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:18,743 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:03:18,743 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:20,753 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:20,795 INFO [root] [base.py (base_get_screen_shot:base_get_screen_shot:60)]-[base]:断言出错,正在执行截图
+2022-03-17 21:03:20,973 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138006,123456,7777
+2022-03-17 21:03:20,973 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:03:20,973 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:20,980 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:20,996 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:21,035 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:03:21,036 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:21,041 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:21,058 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:21,089 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:03:21,089 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:21,095 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:21,108 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:21,137 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:03:21,137 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:23,138 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:23,165 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:03:23,165 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:03:23,165 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:25,746 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:03:25,746 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:27,759 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:35,556 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="1778f5808487e8cf8aff46c182f8ec00")>
+2022-03-17 21:03:35,557 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="1778f5808487e8cf8aff46c182f8ec00")>
+2022-03-17 21:03:35,557 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 21:03:35,557 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 21:03:35,557 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:37,561 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:39,948 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:03:39,948 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:39,960 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:39,985 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:40,012 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:03:40,012 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:40,020 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:40,042 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:40,076 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:03:40,076 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:40,086 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:40,107 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:40,136 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:03:40,136 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:42,150 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:56,305 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:03:56,314 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:03:56,339 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:03:56,371 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:03:58,374 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:04:01,241 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:04:03,242 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:04:03,317 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:04:05,321 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:04:34,968 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:04:39,462 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:04:39,462 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:04:39,488 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:04:41,489 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:04:48,857 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="5720db771902fe166911a80168c4bb4d")>
+2022-03-17 21:04:48,857 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 21:04:48,858 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 21:04:48,858 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:04:50,867 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:04:53,214 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:04:53,214 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:04:53,224 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:04:53,249 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:04:53,288 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:04:53,288 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:04:53,297 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:04:53,321 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:04:53,359 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:04:53,360 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:04:53,369 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:04:53,392 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:04:53,427 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:04:53,427 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:04:55,433 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:04:55,471 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="5720db771902fe166911a80168c4bb4d")>
+2022-03-17 21:05:02,356 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:05:04,368 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:06,925 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:06,945 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:05:08,950 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:11,409 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:13,958 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:05:15,967 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:16,007 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:05:16,008 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:30,564 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="337781f8e3c9bb38d521845cfefc07cb")>
+2022-03-17 21:05:30,564 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 21:05:30,564 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 21:05:30,564 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:05:32,579 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:34,947 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:05:34,947 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:34,957 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:05:34,980 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:05:35,009 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:05:35,009 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:35,018 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:05:35,039 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:05:35,082 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:05:35,083 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:35,092 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:05:35,115 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:05:35,148 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:05:35,148 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:05:37,151 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:37,190 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="337781f8e3c9bb38d521845cfefc07cb")>
+2022-03-17 21:05:44,123 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:05:46,131 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:46,187 INFO [root] [base.py (base_switch_to_window:base_switch_to_window:92)]-[base]:切换窗口:我的订单方法
+2022-03-17 21:05:46,190 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-569F767E2342F490983B8612A9F60034方法
+2022-03-17 21:05:46,191 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-569F767E2342F490983B8612A9F60034方法
+2022-03-17 21:05:46,211 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-362F47CA51C8CF21B516A2AF539EDA20方法
+2022-03-17 21:05:46,211 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-362F47CA51C8CF21B516A2AF539EDA20方法
+2022-03-17 21:05:48,814 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:106)]-[base]:判断当前页面title是否等于指定的title:我的订单方法
+2022-03-17 21:05:48,814 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:108)]-[base]:返回handle:CDwindow-362F47CA51C8CF21B516A2AF539EDA20方法
+2022-03-17 21:05:48,814 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:05:50,822 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:05:50,875 INFO [root] [base.py (base_switch_to_window:base_switch_to_window:92)]-[base]:切换窗口:订单支付-开源商城 | B2C商城 | B2B2C商城 | 三级分销 | 免费商城 | 多用户商城 | tpshop｜thinkphp shop｜TPshop 免费开源系统 | 微商城方法
+2022-03-17 21:05:50,878 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-569F767E2342F490983B8612A9F60034方法
+2022-03-17 21:05:50,879 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-569F767E2342F490983B8612A9F60034方法
+2022-03-17 21:05:50,895 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-362F47CA51C8CF21B516A2AF539EDA20方法
+2022-03-17 21:05:50,895 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-362F47CA51C8CF21B516A2AF539EDA20方法
+2022-03-17 21:05:50,915 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-DF7264B1DD5B7D18EB284E67E2BB9369方法
+2022-03-17 21:05:50,915 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-DF7264B1DD5B7D18EB284E67E2BB9369方法
+2022-03-17 21:06:00,122 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:106)]-[base]:判断当前页面title是否等于指定的title:订单支付-开源商城 | B2C商城 | B2B2C商城 | 三级分销 | 免费商城 | 多用户商城 | tpshop｜thinkphp shop｜TPshop 免费开源系统 | 微商城方法
+2022-03-17 21:06:00,122 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:108)]-[base]:返回handle:CDwindow-DF7264B1DD5B7D18EB284E67E2BB9369方法
+2022-03-17 21:06:00,122 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:06:02,129 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:06:02,166 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:06:04,172 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:06:08,720 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:06:08,720 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:06:08,748 INFO [root] [base.py (base_get_screen_shot:base_get_screen_shot:60)]-[base]:断言出错,正在执行截图
+2022-03-17 21:31:52,606 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="4535c4b2ef1b55a4a7338426f493b2f9")>
+2022-03-17 21:31:52,606 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 21:31:52,606 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:31:54,619 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:31:57,368 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法,123456,8888
+2022-03-17 21:31:57,368 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:31:57,368 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:31:57,380 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:31:57,413 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:31:57,437 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:31:57,437 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:31:57,450 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:31:57,476 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:31:57,512 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:31:57,512 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:31:57,524 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:31:57,555 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:31:57,585 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:31:57,585 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:31:59,598 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:31:59,649 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:31:59,649 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:31:59,649 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:31:59,669 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:31:59,669 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:01,670 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:01,703 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138006,,8888
+2022-03-17 21:32:01,703 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:32:01,703 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:01,710 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:01,736 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:01,769 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:32:01,769 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:01,774 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:01,801 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:01,827 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:32:01,827 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:01,835 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:01,860 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:01,886 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:32:01,886 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:03,888 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:03,926 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:32:03,926 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:32:03,926 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:03,951 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:32:03,951 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:05,961 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:05,996 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138006,123456,
+2022-03-17 21:32:05,996 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:32:05,996 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:06,001 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:06,021 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:06,056 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:32:06,056 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:06,061 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:06,076 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:06,123 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:32:06,123 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:06,127 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:06,143 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:06,164 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:32:06,164 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:08,174 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:08,202 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:32:08,202 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:32:08,203 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:08,218 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:32:08,219 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:10,229 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:10,269 INFO [root] [base.py (base_get_screen_shot:base_get_screen_shot:60)]-[base]:断言出错,正在执行截图
+2022-03-17 21:32:10,659 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138007,123456,8888
+2022-03-17 21:32:10,659 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:32:10,659 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:10,664 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:10,685 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:10,727 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:32:10,728 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:10,734 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:10,755 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:10,786 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:32:10,786 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:10,793 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:10,806 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:10,834 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:32:10,834 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:12,849 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:12,870 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:32:12,870 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:32:12,870 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:15,438 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:32:15,439 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:17,448 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:17,478 INFO [root] [base.py (base_get_screen_shot:base_get_screen_shot:60)]-[base]:断言出错,正在执行截图
+2022-03-17 21:32:17,714 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138,123456,8888
+2022-03-17 21:32:17,714 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:32:17,714 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:17,720 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:17,739 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:17,774 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:32:17,774 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:17,781 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:17,798 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:17,838 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:32:17,838 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:17,846 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:17,860 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:17,888 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:32:17,888 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:19,899 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:19,928 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:32:19,928 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:32:19,928 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:19,945 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:32:19,945 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:21,952 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:21,982 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138006,1234567,8888
+2022-03-17 21:32:21,982 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:32:21,982 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:21,992 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:22,007 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:22,037 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:32:22,037 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:22,042 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:22,057 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:22,084 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:32:22,084 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:22,085 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:22,100 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:22,125 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:32:22,130 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:24,146 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:24,172 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:32:24,172 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:32:24,172 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:26,789 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:32:26,789 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:28,797 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:28,828 INFO [root] [base.py (base_get_screen_shot:base_get_screen_shot:60)]-[base]:断言出错,正在执行截图
+2022-03-17 21:32:29,028 INFO [root] [page_login.py (page_login:page_login:66)]-[page]:  正在执行组合业务方法13800138006,123456,7777
+2022-03-17 21:32:29,029 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:32:29,029 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:29,036 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:29,053 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:29,108 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:32:29,108 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:29,113 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:29,130 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:29,169 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:32:29,169 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:29,177 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:29,194 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:29,226 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:32:29,226 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:31,233 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:31,253 INFO [root] [page_login.py (page_get_error_msg:page_get_error_msg:40)]-[page]: 获取错误提示信息
+2022-03-17 21:32:31,253 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:32:31,253 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:33,843 INFO [root] [page_login.py (page_click_error_alert:page_click_error_alert:46)]-[page]: 点击错误提示框确定按钮
+2022-03-17 21:32:33,843 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:35,849 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:35,884 INFO [root] [base.py (base_get_screen_shot:base_get_screen_shot:60)]-[base]:断言出错,正在执行截图
+2022-03-17 21:32:43,768 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="bce6d34b2d584d0730acb3a6a2d50481")>
+2022-03-17 21:32:43,768 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="bce6d34b2d584d0730acb3a6a2d50481")>
+2022-03-17 21:32:43,768 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 21:32:43,768 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 21:32:43,768 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:45,774 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:48,141 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:32:48,142 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:48,152 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:48,176 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:48,211 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:32:48,211 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:48,224 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:48,246 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:48,281 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:32:48,282 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:32:48,291 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:32:48,316 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:32:48,346 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:32:48,346 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:32:50,352 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:04,576 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:04,593 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:33:04,621 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:33:04,659 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:33:06,673 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:09,445 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:33:11,447 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:11,547 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:33:13,547 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:31,163 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:33,750 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:33:33,750 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:33,776 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:33:35,790 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:43,453 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="fbd9838bf3d61396e2366f06d42f2d24")>
+2022-03-17 21:33:43,453 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 21:33:43,453 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 21:33:43,454 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:33:45,460 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:47,770 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:33:47,770 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:47,778 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:33:47,806 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:33:47,851 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:33:47,851 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:47,860 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:33:47,888 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:33:47,921 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:33:47,921 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:47,931 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:33:47,956 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:33:47,987 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:33:47,988 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:33:49,992 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:33:50,033 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="fbd9838bf3d61396e2366f06d42f2d24")>
+2022-03-17 21:33:57,264 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:33:59,265 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:01,848 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:01,866 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:34:03,868 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:06,343 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:10,972 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:34:12,984 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:13,024 INFO [root] [base.py (base_get_text:base_get_text:54)]-[base]:正在获取元素的文本信息
+2022-03-17 21:34:13,024 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:29,524 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="79e8bafa0ffd8b874589a967adee2fa3")>
+2022-03-17 21:34:29,524 INFO [root] [page_login.py (page_login_success:page_login_success:75)]-[page]:  正在执行组合业务方法13800138006,123456,8888
+2022-03-17 21:34:29,525 INFO [root] [page_login.py (page_click_login_link:page_click_login_link:12)]-[page]: 点击链接操作
+2022-03-17 21:34:29,525 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:34:31,526 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:34,007 INFO [root] [page_login.py (page_input_username:page_input_username:17)]-[page]: 输入用户名操作
+2022-03-17 21:34:34,007 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:34,016 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:34:34,043 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:34:34,067 INFO [root] [page_login.py (page_input_password:page_input_password:22)]-[page]: 输入密码操作
+2022-03-17 21:34:34,067 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:34,074 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:34:34,095 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:34:34,125 INFO [root] [page_login.py (page_input_verify_code:page_input_verify_code:28)]-[page]: 输入验证码操作
+2022-03-17 21:34:34,126 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:34,134 INFO [root] [base.py (base_input:base_input:45)]-[base]:正在清空元素内容
+2022-03-17 21:34:34,157 INFO [root] [base.py (base_input:base_input:48)]-[base]:正在输入元素内容
+2022-03-17 21:34:34,178 INFO [root] [page_login.py (page_click_login_btn:page_click_login_btn:34)]-[page]: 点击登录按钮
+2022-03-17 21:34:34,178 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:34:36,190 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:36,228 INFO [root] [base.py (__init__:__init__:16)]-[base]:正在获取初始化 driver 对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="79e8bafa0ffd8b874589a967adee2fa3")>
+2022-03-17 21:34:43,211 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:34:45,212 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:45,267 INFO [root] [base.py (base_switch_to_window:base_switch_to_window:92)]-[base]:切换窗口:我的订单方法
+2022-03-17 21:34:45,273 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-0341FFBD0AAF933E0C96EDCD725EDC55方法
+2022-03-17 21:34:45,273 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-0341FFBD0AAF933E0C96EDCD725EDC55方法
+2022-03-17 21:34:45,314 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-D69F818504668B1AF32724E9AE2C5DA0方法
+2022-03-17 21:34:45,315 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-D69F818504668B1AF32724E9AE2C5DA0方法
+2022-03-17 21:34:47,784 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:106)]-[base]:判断当前页面title是否等于指定的title:我的订单方法
+2022-03-17 21:34:47,784 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:108)]-[base]:返回handle:CDwindow-D69F818504668B1AF32724E9AE2C5DA0方法
+2022-03-17 21:34:47,784 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:34:49,793 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:34:49,895 INFO [root] [base.py (base_switch_to_window:base_switch_to_window:92)]-[base]:切换窗口:订单支付-开源商城 | B2C商城 | B2B2C商城 | 三级分销 | 免费商城 | 多用户商城 | tpshop｜thinkphp shop｜TPshop 免费开源系统 | 微商城方法
+2022-03-17 21:34:49,899 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-0341FFBD0AAF933E0C96EDCD725EDC55方法
+2022-03-17 21:34:49,899 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-0341FFBD0AAF933E0C96EDCD725EDC55方法
+2022-03-17 21:34:49,932 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-D69F818504668B1AF32724E9AE2C5DA0方法
+2022-03-17 21:34:49,933 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-D69F818504668B1AF32724E9AE2C5DA0方法
+2022-03-17 21:34:49,962 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:100)]-[base]:正在遍历handle:CDwindow-FB012083121FA13882DA591B4A5799B0方法
+2022-03-17 21:34:49,963 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:102)]-[base]:切换窗口:CDwindow-FB012083121FA13882DA591B4A5799B0方法
+2022-03-17 21:34:59,406 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:106)]-[base]:判断当前页面title是否等于指定的title:订单支付-开源商城 | B2C商城 | B2B2C商城 | 三级分销 | 免费商城 | 多用户商城 | tpshop｜thinkphp shop｜TPshop 免费开源系统 | 微商城方法
+2022-03-17 21:34:59,407 INFO [root] [base.py (base_get_title_handle:base_get_title_handle:108)]-[base]:返回handle:CDwindow-FB012083121FA13882DA591B4A5799B0方法
+2022-03-17 21:34:59,407 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:35:01,414 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:35:01,445 INFO [root] [base.py (base_click:base_click:35)]-[base]:正在点击元素
+2022-03-17 21:35:03,450 INFO [root] [base.py (base_find:base_find:24)]-[base]:正在定位元素
+2022-03-17 21:35:03,466 ERROR [root] [test04_pay.py (test_pay:test_pay:41)]-Message: element not interactable
+  (Session info: chrome=99.0.4844.51)
+
